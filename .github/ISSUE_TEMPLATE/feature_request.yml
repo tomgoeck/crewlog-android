@@ -1,0 +1,25 @@
+name: "💡 Feature Request"
+description: Suggest a new idea or improvement for Flightbook
+title: "[Feature]: "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what feature would make Flightbook better for you.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Use Case
+      placeholder: Describe what you're trying to solve
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution
+      placeholder: Describe your idea or solution
+  - type: textarea
+    id: scope
+    attributes:
+      label: Affected area (e.g. Roster import, Calendar sync, CIT parser)

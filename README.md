@@ -44,7 +44,6 @@ Before creating a new issue:
 
 ### Example of a good bug report
 
-```text
 Title: [Bug] Calendar sync shows wrong date
 
 App version: 1.4.2 (Android)
@@ -55,3 +54,48 @@ Steps:
 
 Expected:
 Correct date alignment according to duty start time.
+
+## 🔐 Privacy & Data
+
+Flightbook processes all uploaded PDF rosters locally on your device.
+To support the 90-day trial period, only the following data is transmitted to the server:
+	•	device_id (randomly generated)
+	•	registration date
+
+No personal or flight data is stored on the server.
+See details at:
+➡️ Policy (Terms & Privacy)￼
+
+To report a security issue, please do not open a public issue.
+Instead, email: 📧 security@attomic.de
+
+⸻
+
+## 🧰 Useful links
+Purpose
+Link
+📝 Report a bug
+Open issue￼
+💡 Request a feature
+Suggest feature￼
+🌐 Official website
+flightbook.attomic.de￼
+📄 Policy (Terms & Privacy)
+flightbook.attomic.de/policy.html￼
+⚖️ Terms (AGB)
+flightbook.attomic.de/agb.html￼
+💬 Contact
+support@attomic.de
+
+
+## ⚠️ Disclaimer
+
+Flightbook is an independent tool and is not affiliated with Lufthansa, Lufthansa CityLine, Lufthansa City, Eurowings, Discover, or Condor.
+All data and features are for informational and testing purposes only.
+Always refer to your official NetLine roster for accurate and legally binding information.
+
+⸻
+
+© 2025 Attomic Systems – Flightbook
+For CLH & LHX Crews
+https://flightbook.attomic.de￼

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📄 Official Policy (Terms & Privacy)
+    url: https://flightbook.attomic.de/policy.html
+    about: Read our Terms and Privacy Policy
+  - name: 🌐 Visit Flightbook website
+    url: https://flightbook.attomic.de
+    about: Learn more about the Flightbook app
+  - name: ✉️ Contact support
+    url: mailto:support@attomic.de
+    about: Email our support team directly

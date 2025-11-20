@@ -83,7 +83,7 @@ CrewLog.attomic.de￼
 📄 Policy (Terms & Privacy)
 [https://crewlog.net/policy.html](https://crewlog.net/policy.html)￼
 ⚖️ Terms (AGB)
-[CrewLog.attomic.de/policy.html](https://crewlog.net/agb.html)￼
+[https://crewlog.net/agb.html](https://crewlog.net/agb.html)
 💬 Contact
 support@crewlog.net
 

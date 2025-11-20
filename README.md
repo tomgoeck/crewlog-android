@@ -2,7 +2,7 @@
 
 Welcome to the **official feedback and support repository** for the **CrewLog App**.
 
-CrewLog is your personal flight log, duty planner, and calendar companion – built **exclusively for Lufthansa CityLine (CLH)** and **Lufthansa City (LHX)** crews.  
+CrewLog is your personal flight log, duty planner, and calendar companion.  
 This repository is dedicated to **bug reports**, **feature requests**, and **general questions** about the app.
 
 > 🔒 **Note:** This repository contains **no source code**.  
@@ -12,7 +12,7 @@ This repository is dedicated to **bug reports**, **feature requests**, and **gen
 
 ## 📱 About CrewLog
 
-CrewLog is an independent tool that processes official **NetLine PDF rosters** and helps you stay fully organized — paper-free, private, and always up to date.
+CrewLog is an independent tool that processes  **rosters** and helps you stay fully organized — paper-free, private, and always up to date.
 
 **Core features:**
 - 📄 **PDF roster import** – automatically displays all flights, hotels, and standby duties  
@@ -27,9 +27,9 @@ CrewLog is an independent tool that processes official **NetLine PDF rosters** a
 ## 🧭 Purpose of this repository
 
 You can:
-- 🐞 [**Report a bug**](https://github.com/tomgoeck/CrewLog-android/issues/new?template=bug_report.yml)  
-- 💡 [**Request a feature**](https://github.com/tomgoeck/CrewLog-android/issues/new?template=feature_request.yml)  
-- 💬 [**Ask a question or start a discussion**](https://github.com/tomgoeck/CrewLog-android/discussions) *(if enabled)*
+- 🐞 [**Report a bug**](https://github.com/tomgoeck/crewlog-android/issues/new?template=bug_report.yml)  
+- 💡 [**Request a feature**](https://github.com/tomgoeck/crewlog-android/issues/new?template=feature_request.yml)  
+- 💬 [**Ask a question or start a discussion**](https://github.com/tomgoeck/crewlog-android/discussions) *(if enabled)*
 
 Please **do not post any personal data**, CIT screenshots, or crew IDs.
 
@@ -67,7 +67,7 @@ See details at:
 ➡️ Policy (Terms & Privacy)￼
 
 To report a security issue, please do not open a public issue.
-Instead, email: 📧 security@attomic.de
+Instead, email: 📧 support@crewlog.net
 
 ⸻
 
@@ -81,21 +81,20 @@ Suggest feature￼
 🌐 Official website
 CrewLog.attomic.de￼
 📄 Policy (Terms & Privacy)
-CrewLog.attomic.de/policy.html￼
+[https://crewlog.net/policy.html](https://crewlog.net/policy.html)￼
 ⚖️ Terms (AGB)
-CrewLog.attomic.de/agb.html￼
+[CrewLog.attomic.de/policy.html](https://crewlog.net/agb.html)￼
 💬 Contact
-support@attomic.de
+support@crewlog.net
 
 
 ## ⚠️ Disclaimer
 
 CrewLog is an independent tool and is not affiliated with Lufthansa, Lufthansa CityLine, Lufthansa City, Eurowings, Discover, or Condor.
 All data and features are for informational and testing purposes only.
-Always refer to your official NetLine roster for accurate and legally binding information.
+Always refer to your official roster for accurate and legally binding information.
 
 ⸻
 
-© 2025 Attomic Systems – CrewLog
-For CLH & LHX Crews
-https://CrewLog.attomic.de￼
+© 2025 Attomic App Flow– CrewLog
+https://crewlog.net

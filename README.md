@@ -1,8 +1,8 @@
-# ✈️ Flightbook – Feedback & Support
+# ✈️ CrewLog – Feedback & Support
 
-Welcome to the **official feedback and support repository** for the **Flightbook App**.
+Welcome to the **official feedback and support repository** for the **CrewLog App**.
 
-Flightbook is your personal flight log, duty planner, and calendar companion – built **exclusively for Lufthansa CityLine (CLH)** and **Lufthansa City (LHX)** crews.  
+CrewLog is your personal flight log, duty planner, and calendar companion – built **exclusively for Lufthansa CityLine (CLH)** and **Lufthansa City (LHX)** crews.  
 This repository is dedicated to **bug reports**, **feature requests**, and **general questions** about the app.
 
 > 🔒 **Note:** This repository contains **no source code**.  
@@ -10,9 +10,9 @@ This repository is dedicated to **bug reports**, **feature requests**, and **gen
 
 ---
 
-## 📱 About Flightbook
+## 📱 About CrewLog
 
-Flightbook is an independent tool that processes official **NetLine PDF rosters** and helps you stay fully organized — paper-free, private, and always up to date.
+CrewLog is an independent tool that processes official **NetLine PDF rosters** and helps you stay fully organized — paper-free, private, and always up to date.
 
 **Core features:**
 - 📄 **PDF roster import** – automatically displays all flights, hotels, and standby duties  
@@ -27,9 +27,9 @@ Flightbook is an independent tool that processes official **NetLine PDF rosters*
 ## 🧭 Purpose of this repository
 
 You can:
-- 🐞 [**Report a bug**](https://github.com/tomgoeck/flightbook-android/issues/new?template=bug_report.yml)  
-- 💡 [**Request a feature**](https://github.com/tomgoeck/flightbook-android/issues/new?template=feature_request.yml)  
-- 💬 [**Ask a question or start a discussion**](https://github.com/tomgoeck/flightbook-android/discussions) *(if enabled)*
+- 🐞 [**Report a bug**](https://github.com/tomgoeck/CrewLog-android/issues/new?template=bug_report.yml)  
+- 💡 [**Request a feature**](https://github.com/tomgoeck/CrewLog-android/issues/new?template=feature_request.yml)  
+- 💬 [**Ask a question or start a discussion**](https://github.com/tomgoeck/CrewLog-android/discussions) *(if enabled)*
 
 Please **do not post any personal data**, CIT screenshots, or crew IDs.
 
@@ -57,7 +57,7 @@ Correct date alignment according to duty start time.
 
 ## 🔐 Privacy & Data
 
-Flightbook processes all uploaded PDF rosters locally on your device.
+CrewLog processes all uploaded PDF rosters locally on your device.
 To support the 90-day trial period, only the following data is transmitted to the server:
 	•	device_id (randomly generated)
 	•	registration date
@@ -79,23 +79,23 @@ Open issue￼
 💡 Request a feature
 Suggest feature￼
 🌐 Official website
-flightbook.attomic.de￼
+CrewLog.attomic.de￼
 📄 Policy (Terms & Privacy)
-flightbook.attomic.de/policy.html￼
+CrewLog.attomic.de/policy.html￼
 ⚖️ Terms (AGB)
-flightbook.attomic.de/agb.html￼
+CrewLog.attomic.de/agb.html￼
 💬 Contact
 support@attomic.de
 
 
 ## ⚠️ Disclaimer
 
-Flightbook is an independent tool and is not affiliated with Lufthansa, Lufthansa CityLine, Lufthansa City, Eurowings, Discover, or Condor.
+CrewLog is an independent tool and is not affiliated with Lufthansa, Lufthansa CityLine, Lufthansa City, Eurowings, Discover, or Condor.
 All data and features are for informational and testing purposes only.
 Always refer to your official NetLine roster for accurate and legally binding information.
 
 ⸻
 
-© 2025 Attomic Systems – Flightbook
+© 2025 Attomic Systems – CrewLog
 For CLH & LHX Crews
-https://flightbook.attomic.de￼
+https://CrewLog.attomic.de￼
